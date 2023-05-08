@@ -25,3 +25,5 @@ If you are creating new build, or you are modyfing existing build that does not 
       >
       >**Dependencies:** Any third-party libraries/plugins used by the build
 
+  - Navigate to the repository homepage and use the cog in the top right corner to add a URL to the Jira ticket (if one exists) for this build.
+  - In the same modal, add relevant high-level tags about the build to help with identification (e.g. the programming language used, the architecture of the build).
