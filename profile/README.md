@@ -1,11 +1,11 @@
 # Austin Health EMR Services Projects
 
-## Guidelines:
+### Guidelines:
 
-### Modifcation to existing build
+#### Modifcation to existing build
 If you are modifying an existing build, search for that build in **Repositories** and submit all changes via a pull request to that repository.
 
-### New build
+#### New build
 If you are creating new build, or you are modyfing existing build that does not have a repository, *Create a new* repository.
   - Your new repository should be prefixed with some letters indicating the primary build type (e.g. 'ST' from smart template, 'CC' for custom component, 'DR' for discern rule, and 'EMRC' for EMR content.
   - Create your repository as a *Private* repository.
