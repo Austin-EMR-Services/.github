@@ -12,7 +12,7 @@ If you are creating new build, or you are modyfing existing build that does not 
   - Add a README file.
   - Create the repository.
   - Edit the README file to follow the following format
-      "# Smart Template - Anticoagulant Rate Change
+      <# Smart Template - Anticoagulant Rate Change
 
       **Jira Reference Number:** The jira ticket number (e.g. EMRCR-100)
 
@@ -22,5 +22,5 @@ If you are creating new build, or you are modyfing existing build that does not 
 
       **Purpose:** A brief one-line description of the purpose of the build for some context
 
-      **Dependencies:** Any third-party libraries/plugins used by the build"
+      **Dependencies:** Any third-party libraries/plugins used by the build>
 
